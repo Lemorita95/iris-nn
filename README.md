@@ -4,7 +4,7 @@ using sequential neural network on iris dataset to create a model to predict lab
 ## content
 [requirements.txt](requirements.txt) -  python libraries requirement
 
-[text](main.py) - main file
+[main.py](main.py) - main file
 
 ## description
 data load, preprocessing.
